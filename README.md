@@ -53,8 +53,9 @@ This tool is hosted on GitHub Pages. You can also run it locally:
 
 1. **Clone the Repository**:
    
-   git clone https://github.com/mua2022/CaesarEncipherDecipherTool.git
-   cd CaesarEncipherDecipherTool
+  ` git clone https://github.com/mua2022/CaesarEncipherDecipherTool.git `
+
+   `cd CaesarEncipherDecipherTool`
 2. **Open Locally**
 - Open `index.html` in any modern web browser.
 
