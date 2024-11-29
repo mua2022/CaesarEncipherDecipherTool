@@ -1,6 +1,6 @@
 # Caesar Encipher Decipher Tool
 
-A simple, intuitive web-based Caesar cipher encryption and decryption tool. This tool lets you encrypt and decrypt text using the classic Caesar cipher technique, directly in your browser.
+A simple, intuitive web-based Caesar cipher encryption and decryption tool. This tool lets you encrypt and decrypt text using the classic Caesar cipher technique, directly in your [browser](https://mua2022.github.io/CaesarEncipherDecipherTool).
 
 ---
 
@@ -49,14 +49,15 @@ A simple, intuitive web-based Caesar cipher encryption and decryption tool. This
 ---
 
 ## Setup Instructions
-This tool is hosted on GitHub Pages. You can also run it locally:
+This tool is hosted on GitHub Pages [here](https://mua2022.github.io/CaesarEncipherDecipherTool).
+ You can also run it locally:
 
 1. **Clone the Repository**:
    
   ` git clone https://github.com/mua2022/CaesarEncipherDecipherTool.git `
 
    `cd CaesarEncipherDecipherTool`
-   
+
 2. **Open Locally**
 - Open `index.html` in any modern web browser.
 
